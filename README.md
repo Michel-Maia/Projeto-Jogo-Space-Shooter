@@ -1,2 +1,18 @@
 # Projeto Jogo Space Shooter
- Projeto realizado no Bootcamp Javascript Game Developer - DIO, foi recriado o jogo estilo space shooter, utilizando HTML5, CSS3 e Javascript. Desenvolvido 22/12/21.
+
+![preview](./.github/preview.png)
+
+> Plataforma 
+
+ Projeto realizado no Bootcamp Javascript Game Developer - DIO, foi recriado o jogo estilo space shooter.
+ Desenvolvido 22/12/21.
+
+[ 📎 Clique aqui para acessar] (https://michel-maia.github.io/Projeto-Jogo-Space-Shooter/)
+
+ ## Tecnologias 🖥️ 🚀 
+
+- HTML
+- CSS
+- JavaScript
+- Git e GitHub
+
